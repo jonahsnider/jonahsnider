@@ -1,4 +1,4 @@
-![JS](./banner.svg)
+[![JS](./banner.svg)](https://jonahsnider.com)
 
 # Hi, I'm Jonah
 
