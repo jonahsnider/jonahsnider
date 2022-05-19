@@ -4,7 +4,7 @@
 
 I work as a backend developer at [Voiceflow](https://www.voiceflow.com/) writing Node.js & TypeScript apps for our platform team.
 
-In my free time, I volunteer as a mentor for [FRC Team 581](https://team581.club).
+In my free time, I volunteer as a mentor for [FRC Team 581](https://team581.com).
 
 I also do a lot of open source full-stack work which you can view here on my GitHub.
 
