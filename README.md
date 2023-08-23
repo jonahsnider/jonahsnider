@@ -2,9 +2,9 @@
 
 # Hi, I'm Jonah
 
-I work as a backend developer at [Voiceflow](https://www.voiceflow.com/) writing Node.js & TypeScript apps for our platform team.
+Hi, I'm Jonah. I'm a backend developer with extensive experience in the Node.js & TypeScript ecosystem.
 
-In my free time, I volunteer as a mentor for [FRC Team 581](https://team581.com).
+Previously, I worked at [Voiceflow](https://www.voiceflow.com/) on the platform team.
 
 I also do a lot of open source full-stack work which you can view here on my GitHub.
 
